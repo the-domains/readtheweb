@@ -2,6 +2,7 @@ name: ReadTheWeb
 favicon: null
 layout_spectrum: 0.8108170367777348
 typography_spectrum: 0.9449507675599307
+title: 'Read more about web, tech and life'
 cta:
   domain: null
   bucket: null
