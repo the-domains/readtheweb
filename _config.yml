@@ -1,7 +1,7 @@
 name: ReadTheWeb
 favicon: null
-layout_spectrum: 0.8108170367777348
-typography_spectrum: 0.9449507675599307
+layout_spectrum: 0.22555
+typography_spectrum: 0.33546
 title: 'Read more about web, tech and life'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.6046585566364229
-  lightness: 0.005269976332783699
-  saturation: 0.08136279624886811
-  rhythmicContrast: 0.9197876828256994
+    - '#247686'
+    - '#005555'
+    - '#000000'
+    - '#000080'
+    - '#004080'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
