@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[ReadTheWeb]]></title>
-        <description><![CDATA[ReadTheWeb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Read more about web, tech and life]]></title>
+        <description><![CDATA[Read more about web, tech and life]]></description>
+        <link>https://thegrid.ai/readtheweb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 13:20:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 13:23:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/readtheweb/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Read, read, read!]]></title>
+            <description><![CDATA[<article><h1>Read, read, read!</h1><p>This is an easy and unordered collection of pages/articles/posts about web, tech and life.</p></article>]]></description>
+            <link>https://thegrid.ai/readtheweb/read-read-read/index.html</link>
+            <guid isPermaLink="false">461d6350-a2d0-4613-9c8b-99bc3f9a1204</guid>
+            <pubDate>Tue, 03 May 2016 13:23:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Schäfer Webentwicklung]]></title>
             <description><![CDATA[<article><h1>Schäfer Webentwicklung</h1><p>Blog about Webtech for Nerds and RL for the rest of us</p></article>]]></description>
